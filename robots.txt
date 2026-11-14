@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://vivekvermaji.github.io/sitemap.xml
-Sitemap: https://vivekvermaji.github.io/vivek-verma-portfolio/sitemap.xml
